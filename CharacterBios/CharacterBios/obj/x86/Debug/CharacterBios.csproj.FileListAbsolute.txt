@@ -1,0 +1,9 @@
+C:\Users\Shelby\Documents\MAINE\Kinect\Projects\Project01\CharacterBios\CharacterBios\bin\Debug\CharacterBios.exe
+C:\Users\Shelby\Documents\MAINE\Kinect\Projects\Project01\CharacterBios\CharacterBios\bin\Debug\CharacterBios.pdb
+C:\Users\Shelby\Documents\MAINE\Kinect\Projects\Project01\CharacterBios\CharacterBios\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shelby\Documents\MAINE\Kinect\Projects\Project01\CharacterBios\CharacterBios\obj\x86\Debug\CharacterBios.Form1.resources
+C:\Users\Shelby\Documents\MAINE\Kinect\Projects\Project01\CharacterBios\CharacterBios\obj\x86\Debug\CharacterBios.Properties.Resources.resources
+C:\Users\Shelby\Documents\MAINE\Kinect\Projects\Project01\CharacterBios\CharacterBios\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shelby\Documents\MAINE\Kinect\Projects\Project01\CharacterBios\CharacterBios\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Shelby\Documents\MAINE\Kinect\Projects\Project01\CharacterBios\CharacterBios\obj\x86\Debug\CharacterBios.exe
+C:\Users\Shelby\Documents\MAINE\Kinect\Projects\Project01\CharacterBios\CharacterBios\obj\x86\Debug\CharacterBios.pdb

@@ -1,0 +1,11 @@
+When the user first runs the program, a window will pop up in which they will be able to enter a first name, a last name, and some general information.
+
+The Last Name and First Name textboxes are to store a person, character, cat, dog, fish, or any other things someone would want to names for. The First Name textbox can be left empty, but a Last name must be provided for the information to be saved.
+
+The General Information textbox is any kind of information that one might want to store about whatever thing they are naming. There is not a limit to the amount of information that can be entered into this textbox.
+
+The shaded box in the top right corner of the box is a table that shows information that has been saved during one session of running the program (so from the time they open the program until they close it). It displays information by last name, then first name, and finally the first 30 characters of the text entered in the general information box. There is no information displayed from any previously saved files. Once information is added, the columns will automatically resize to accomdate the information. The information can also be organized alphabetically by clicking the column headers.
+
+When a user clicks the 'New' button, the Last Name textbox, the First Name textbox and the General Information textbox will be cleared of any information that may be in them. It will not retain any of the information, that is what the 'Save' button is for.
+
+When a user clicks the 'Save' button, there are several things that happen. First, there is a check to see if a user has entered a Last Name and if they have not, a message box will appear instructing them to enter a last name. Once there is a last name entered, the following takes place. A new row is added to the table with last name, first name (if provided), and the first 30 characters of the text entered in the General Information textbox. Next, a file is created. The file name is the last name that is provided. That is why providing a last name is crucial. The last name is written to the first line of the file, followed by the first name on the second line. It then writes all of the text in the General Information textbox to the file starting at the thrid line. Finally it closes the file.
